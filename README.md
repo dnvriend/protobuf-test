@@ -1,4 +1,4 @@
-# activator-akka-scala-seed
+# protobuf-test
 Study on [Google Protocol Buffers](https://developers.google.com/protocol-buffers/docs/overview) and how to use them in an SBT project.
 
 # TL;DR
